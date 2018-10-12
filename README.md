@@ -7,7 +7,11 @@
 
 **[Github portfolio](https://github.com/michellel4196)**
 
-_I grew up in Brooklyn. I am a 11th grade student. I like to play sports, such as volleyball, basketball, etc._
+---
+* _I grew up in Brooklyn._
+* _11th grade student._
+* _I like to play sports:_
+  * _volleyball, basketball, etc._
 
 
 #### **Schedule**:
